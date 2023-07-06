@@ -1,4 +1,6 @@
-# leran-shell
+#!/bin/sh
+
+#learn-shell
 
 in this we are going to  learn about shell
 1.printing
