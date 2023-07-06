@@ -10,6 +10,6 @@ date=$(date)
 
 echo "today's date is $date"
 
-a=$(2+3)
+a=$((2+3))
 
 echo $a
