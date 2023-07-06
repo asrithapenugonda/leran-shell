@@ -6,6 +6,6 @@ channel=jayashu
 echo hi my name is ${name}
 echo welcome back to my channel $channel
 
-date=$(date %F)
+date=$(date)
 
 echo "today's date is $date"
