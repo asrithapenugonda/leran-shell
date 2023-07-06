@@ -13,3 +13,7 @@ echo "today's date is $date"
 a=$((2+3))
 
 echo $a
+
+jay=$((10-5))
+
+echo $jay
